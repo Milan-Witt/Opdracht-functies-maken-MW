@@ -35,7 +35,7 @@ function runCalculator() {
 
         $result = Calculate($num1, $num2, $operation);
 
-        echo "Result: $result/n";
+        echo "Result: $result\n";
     }
 }
 ?>
